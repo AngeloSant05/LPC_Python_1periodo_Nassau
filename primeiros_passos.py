@@ -41,3 +41,6 @@ Também podemos fazer isso usando três aspas simples
 #O GitHub funciona de forma remota, tudo que você faz no Git pode ser mandado
 #para o GitHub.
 #Esse repositório no qual está vendo tudo isso foi feito assim.
+
+#Link Git: https://git-scm.com/downloads
+#Link GitHub: https://github.com/
