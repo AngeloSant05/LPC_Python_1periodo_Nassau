@@ -10,12 +10,15 @@ De toda forma, vamos dar início.
 ## 📖 Programas Necessários 📖 
 
 ### Python
+___
+
 Para podermos de fato começar precisamos instalar o Python em nossas máquinas ou desenvolver os códigos em uma plataforma web, recomendo que baixem o Python direto na máquina pois ajudará no momento em que forem fazer a integração com o Git / GitHub.
 
  - [**Python**](https://www.python.org/downloads/release/python-3123/) : Download do Python.
  - [**Repl.it**](https://replit.com/) : Desenvolvindo online.
 
 ### IDE
+___
 
 Recomendo também que baixe uma IDE.  
 IDE é uma interface de desenvolvimento, a mais conhecido é o Visual Studio Code (VS Code). Para Python em específico eu indico o PyCharm, porém isso vai pela sua escolha.
@@ -28,6 +31,7 @@ IDE é uma interface de desenvolvimento, a mais conhecido é o Visual Studio Cod
 Além do Python instalado e a IDE, também iremos utilizar o Git e o GitHub.
 
 ### Git / GitHub
+___
 
 Um breve resumo de como funciona o Git e o GitHub.  
 O Git é um versionador de arquivos, aí você me pergunta, Ângelo o que é isso?  
@@ -42,4 +46,3 @@ Esse repositório no qual está vendo tudo isso foi feito dessa forma.
 
  - [**Git**]( https://git-scm.com/downloads) : Download do Git.
  - [**GitHub**](https://github.com/) : Site do GitHub.
-
