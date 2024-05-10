@@ -14,6 +14,9 @@ Também podemos fazer isso usando três aspas simples
 #Aqui se encontra o site para download do Python:
 #https://www.python.org/downloads/release/python-3123/
 
+#Ao instalar o Python selecione a opção Add python.exe to PATH.
+#Após isso só clicar em Install Now.
+
 #Recomendo também que baixe uma IDE. 
 #IDE é uma interface de desenvolvimento, a mais conhecido 
 #é o Visual Studio Code (VS Code). Para Python em específico
