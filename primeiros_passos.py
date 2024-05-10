@@ -2,7 +2,7 @@
 #Isso acontece pois o # no começo da linha serve para comentar toda a linha.
 
 '''
-Também podemos fazer isso usando três aspas simple
+Também podemos fazer isso usando três aspas simples
 '''
 
 #De toda forma, vamos dar início.
