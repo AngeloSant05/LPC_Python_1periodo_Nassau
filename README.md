@@ -15,7 +15,7 @@ ___
 Para podermos de fato começar precisamos instalar o Python em nossas máquinas ou desenvolver os códigos em uma plataforma web, recomendo que baixem o Python direto na máquina pois ajudará no momento em que forem fazer a integração com o Git / GitHub.
 
  - [**Python**](https://www.python.org/downloads/release/python-3123/) : Download do Python.
- - [**Repl.it**](https://replit.com/) : Desenvolvindo online.  
+ - [**Repl.it**](https://replit.com/) : Desenvolvendo online.  
 
 ### 💻 IDE 💻
 ___
