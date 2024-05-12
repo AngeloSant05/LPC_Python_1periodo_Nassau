@@ -1,11 +1,11 @@
 
 # Primeiros Passos
 
-Antes de tudo, você deve estar estranhando os documentos estarem cheios de #.  
-Isso acontece pois o # no começo da linha, em python, serve para comentar toda a linha.
-Também pode ser feito utilizando três aspas simples ''' '''.  
+Bem-vindos ao repositório de Lógica de Progamação!  
+Espero que possa ajudá-los com o básico de lógica e Git/GitHub, pois os dois serão de extrema importância para suas vidas profissionais, dependendo da área que forem seguir logicamente.  
+De toda forma, aproveitem o aprendizado e divulgem para quem estiver querendo aprender!
 
-De toda forma, vamos dar início.  
+**Vamos lá?**
 
 ## 📖 Programas Necessários 📖 
 
