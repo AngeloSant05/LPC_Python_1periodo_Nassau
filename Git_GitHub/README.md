@@ -31,7 +31,7 @@ name é uma função dentro de user que serve juntas servem para alterar seu nom
 
 Após usarmos esse comando, executamos ele novamente para verificar se o nome do usuário está aparecendo corretamente: 
 
-![repete comando](https://i.imgur.com/lovtcw9.png)
+![repete comando](https://i.imgur.com/lovtcw9.png)  
 ![nome](https://i.imgur.com/rH9zWM9.png)
 
 No meu caso em específico, por meu nome de usuário possuir caracteres especiais ele fica dessa forma, porém se o seu não possuir ele fica normal.
@@ -51,7 +51,7 @@ A estrutura é extremamente similar ao comando anterior, só muda que invés de 
 
 Da mesma forma que o comando anterior, executamos novamente o comando, mas sem a alteração que queremos fazer:
 
-![repete comando](https://i.imgur.com/q09oJ5o.png)
+![repete comando](https://i.imgur.com/q09oJ5o.png)  
 ![email](https://i.imgur.com/zdgGTKS.png)
 
 
@@ -73,9 +73,6 @@ init é utilizado no momento de criarmos um repositório, mas no caso desse coma
 
 E usaremos o comando novamente para verificar se funcionou:
 
-![repete comando](https://i.imgur.com/PFLl5wi.png)
+![repete comando](https://i.imgur.com/PFLl5wi.png)  
 ![branch name](https://i.imgur.com/L9tqTAi.png)
-
-
-
 
