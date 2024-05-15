@@ -15,6 +15,8 @@ ___
 Para podermos de fato começar precisamos instalar o Python em nossas máquinas ou desenvolver os códigos em uma plataforma web, recomendo que baixem o Python direto na máquina pois ajudará no momento em que forem fazer a integração com o Git / GitHub.
 
  - [**Python**](https://www.python.org/downloads/release/python-3123/) : Download do Python.
+ - [**Tutorial de instalação**](https://youtu.be/9_8YBRuC_ak?si=ZatuYyakXQxuzidO)
+ 
  - [**Repl.it**](https://replit.com/) : Desenvolvendo online.  
 
 ### 💻 IDE 💻
@@ -45,4 +47,6 @@ para o GitHub.
 Esse repositório no qual está vendo tudo isso foi feito dessa forma.
 
  - [**Git**]( https://git-scm.com/downloads) : Download do Git.
+ - [**Tutorial de instalação**](https://youtu.be/d5d7DsQ5uXA?si=fkvbb_rZzFVEbU9o)
+ 
  - [**GitHub**](https://github.com/) : Site do GitHub.
