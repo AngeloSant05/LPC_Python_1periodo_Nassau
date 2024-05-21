@@ -17,7 +17,7 @@ d60 = ['','D+60',]
 porc_d60 = 0
 recebiveis = ['','Agnd Rec',]
 
-# Saídas
+# Dispesas
 salario = ['','Salário',]
 repo_estoque = ['','Repo Estoq',]
 telefonia = ['','Telefonia',]
@@ -96,6 +96,7 @@ fluxo.append(recebiveis)
 # Inserindo as saídas
 
 fluxo.append([''])
+fluxo.append(['Dispesas'])
 
 # Declarando o valor do salário
 for x in range(2, len(meses)):
