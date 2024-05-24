@@ -96,7 +96,7 @@ fluxo.append(recebiveis)
 # Inserindo as saídas
 
 fluxo.append([''])
-fluxo.append(['Dispesas'])
+fluxo.append(['Despesas'])
 
 # Declarando o valor do salário
 for x in range(2, len(meses)):
